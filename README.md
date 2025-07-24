@@ -12,7 +12,7 @@
 
 ## 📌 Resumo
 
-- 💻 Desenvolvedor full-stack com paixão por desenvolvimento web e arquitetura limpa.
+- 💻 Desenvolvedor full-stack com foco em desenvolvimento web e arquitetura limpa.
 - 🚀 Especializado em criar interfaces responsivas e APIs escaláveis.
 - ⚙️ Entusiasta de performance, clean code e boas práticas de desenvolvimento.
 - 📚 Em constante evolução, sempre aprendendo novas tecnologias do ecossistema web.
