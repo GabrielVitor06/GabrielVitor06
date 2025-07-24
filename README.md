@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Vítor Poleza</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full-Stack</b> | TypeScript • React • Next.js • Node.js • Tailwind CSS • Drizzle ORM
+  <b>Desenvolvedor Full-Stack</b> | TypeScript, React, React Native, Next.js, Node.js, Tailwind CSS, Hono, Drizzle ORM
 </p>
 
 <p align="center">
